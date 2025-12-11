@@ -1,6 +1,7 @@
+# Create a list called vowels
 vowels = ["a", "e", "i", "o", "u"]
 
-# Write your function here
+# Write your function to count vowels in words
 def vowel_counter(s):
   count = 0
   for letter in s:
@@ -8,4 +9,5 @@ def vowel_counter(s):
       count += 1
   return count
 
+# Print the number of vowels in the word 'hello'
 print(vowel_counter("hello"))
