@@ -1,1 +1,1 @@
-# python_password_generator
+# python_miscellaneous_projects
